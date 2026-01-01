@@ -1,16 +1,25 @@
-## Hi there 👋
+# Micah Hoffmann
 
-<!--
-**hoff11/hoff11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Production Engineer / CNC & Robotics  
+Software Engineering (C++, C#, TypeScript, React)
 
-Here are some ideas to get you started:
+## About
+I build engineering-driven tools that sit at the intersection of
+manufacturing, simulation, and software systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Recent work includes deterministic combat simulation (AoE4),
+CAD/CAM automation, and interactive kinematics learning tools.
+
+## Featured Projects
+- **AoE4 Combat Simulator (Archive)**  
+  Deterministic, data-driven combat simulation in TypeScript/React  
+  https://github.com/hoff11/aoe4-combat-sim-archive
+
+- **Automation Code Lab**  
+  Open, vendor-agnostic CNC & robotics automation concepts
+
+## Tech Stack
+C++ · C# · CAD/CAM · CNC · Robotics · Simulation · TypeScript · React · Node 
+
+## Location
+Seattle, WA
